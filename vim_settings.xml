@@ -9,17 +9,23 @@
       <file name="/Python Console" timestamp="1540610429064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/spotifytoyoutubeconverter/main.py" timestamp="1540610572705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/spotifytoyoutubeconverter/main.py" timestamp="1540612302045">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="8" column="8" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>playlist</text>
+      </register>
       <register name=":" type="4">
         <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text>playlist</text>
       </register>
     </registers>
     <search>
@@ -38,6 +44,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
