@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1540611739755">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1540610429064">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,10 +27,13 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>X</entry>
         <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
